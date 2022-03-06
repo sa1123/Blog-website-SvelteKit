@@ -6,6 +6,11 @@
     <h1>{title}</h1>
 </div>
 
+<ul>
+    <li><a href="/guides">Guides</a></li>
+    <li><a href="/about">About</a></li>
+</ul>
+
 <style>
     .index{
         text-align: center;
@@ -14,4 +19,9 @@
         color: salmon;
         background-color: darkslateblue;
     }
+    ul{
+        list-style-type: none;
+        padding: 0;
+    }
+    
 </style>
