@@ -1,12 +1,9 @@
-<script>
-    import Title from '$lib/title.svelte'
-</script>
+<script> 
 
-<Title title="About"/>
+</script>
 
 <div class="about">
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore doloribus optio dolorem, eos quasi architecto? At blanditiis esse perferendis dicta quas, sequi beatae animi repellat ratione accusantium possimus fugit facilis.</p>
-    <div class="index">hello</div>
 </div>
 
 <div>
